@@ -1,4 +1,4 @@
-Olá, meu nome é Kaio Eduardo e estou começando no ramo da programação
+**Olá, meu nome é Kaio Eduardo e estou começando no ramo da programação**
 
 ---
 
