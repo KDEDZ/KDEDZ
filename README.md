@@ -2,7 +2,8 @@ Olá, meu nome é Kaio Eduardo e estou começando no ramo da programação
 
 ---
 
-Linguagens
+###Linguagens
+
 <img 
   align="left"
   alt="HTML"
